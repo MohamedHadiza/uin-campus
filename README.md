@@ -91,15 +91,6 @@ La logique métier est regroupée dans la bibliothèque `uincampus_core` ; l'app
 - Formatage automatique avec `clang-format` (fichier `.clang-format`)
 - Analyse statique avec `clang-tidy` (fichier `.clang-tidy`)
 
-## Avancement
-
-- [x] Chapitre 2 : environnement, CMake, Git, squelette du projet
-- [x] Chapitre 3 : règles académiques et saisie robuste
-- [ ] Chapitre 4 : fonctions, espaces de noms, lambdas
-- [ ] Classes (étudiant, unité d'enseignement) et tests
-
-
-Système de gestion académique de l'UIN.
 
 ## Construction
 
