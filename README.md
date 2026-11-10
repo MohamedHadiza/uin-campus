@@ -98,9 +98,6 @@ La logique métier est regroupée dans la bibliothèque `uincampus_core` ; l'app
 - [ ] Chapitre 4 : fonctions, espaces de noms, lambdas
 - [ ] Classes (étudiant, unité d'enseignement) et tests
 
-## Auteur
-
-Projet réalisé par [MohamedHadiza](https://github.com/MohamedHadiza), Université Islamique du Niger.# UIN-Campus
 
 Système de gestion académique de l'UIN.
 
